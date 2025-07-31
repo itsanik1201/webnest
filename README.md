@@ -24,21 +24,3 @@ This website showcases hands-on HTML/CSS projects, offers historical insights in
 
 > Replace the above link with your actual deployed URL (e.g., GitHub Pages, Netlify, or Vercel).
 
----
-
-## 📁 Folder Structure (Key Files)
-
-
-webnest/
-├── index.html
-├── style.css
-├── /img
-│   └── [Project Screenshots]
-├── /preproject
-│   ├── bookmyshow/
-│   ├── solar system/
-│   └── ...
-├── /sandy
-│   ├── pages/
-│   └── ...
-└── README.md
