@@ -22,5 +22,5 @@ This website showcases hands-on HTML/CSS projects, offers historical insights in
 
 🌍 **Check it out here**: [Live Demo](https://zippy-unicorn-d24e33.netlify.app/)
 
-> Replace the above link with your actual deployed URL (e.g., GitHub Pages, Netlify, or Vercel).
+
 
